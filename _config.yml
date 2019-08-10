@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuai Yang / No Name Site"
+title                    : "Shuai Yang / Home"
 title_separator          : "-"
 name                     : &name "Shuai Yang"
 description              : &description "A gratuate student of Xi'an Jiaotong University."
