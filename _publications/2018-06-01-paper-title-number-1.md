@@ -2,7 +2,7 @@
 title: "Efficient Rectangle Fitting of Sparse Laser Data for Robust On-Road Object Detection"
 collection: publications
 permalink: /publication/2018-06-01-paper-title-number-1
-date: 2009-10-01
+date: 2018-06-01
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/document/8500716'
 ---
